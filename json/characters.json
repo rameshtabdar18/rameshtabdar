@@ -1,0 +1,168 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "name": "Rick Sanchez",
+          "id": "1",
+          "status": "Alive",
+          "species": "Human",
+          "gender": "Male",
+          "created": "2017-11-04T18:48:46.250Z"
+        },
+        {
+          "name": "Morty Smith",
+          "id": "2",
+          "status": "Alive",
+          "species": "Human",
+          "gender": "Male",
+          "created": "2017-11-04T18:50:21.651Z"
+        },
+        {
+          "name": "Summer Smith",
+          "id": "3",
+          "status": "Alive",
+          "species": "Human",
+          "gender": "Female",
+          "created": "2017-11-04T19:09:56.428Z"
+        },
+        {
+          "name": "Beth Smith",
+          "id": "4",
+          "status": "Alive",
+          "species": "Human",
+          "gender": "Female",
+          "created": "2017-11-04T19:22:43.665Z"
+        },
+        {
+          "name": "Jerry Smith",
+          "id": "5",
+          "status": "Alive",
+          "species": "Human",
+          "gender": "Male",
+          "created": "2017-11-04T19:26:56.301Z"
+        },
+        {
+          "name": "Abadango Cluster Princess",
+          "id": "6",
+          "status": "Alive",
+          "species": "Alien",
+          "gender": "Female",
+          "created": "2017-11-04T19:50:28.250Z"
+        },
+        {
+          "name": "Abradolf Lincler",
+          "id": "7",
+          "status": "unknown",
+          "species": "Human",
+          "gender": "Male",
+          "created": "2017-11-04T19:59:20.523Z"
+        },
+        {
+          "name": "Adjudicator Rick",
+          "id": "8",
+          "status": "Dead",
+          "species": "Human",
+          "gender": "Male",
+          "created": "2017-11-04T20:03:34.737Z"
+        },
+        {
+          "name": "Agency Director",
+          "id": "9",
+          "status": "Dead",
+          "species": "Human",
+          "gender": "Male",
+          "created": "2017-11-04T20:06:54.976Z"
+        },
+        {
+          "name": "Alan Rails",
+          "id": "10",
+          "status": "Dead",
+          "species": "Human",
+          "gender": "Male",
+          "created": "2017-11-04T20:19:09.017Z"
+        },
+        {
+          "name": "Albert Einstein",
+          "id": "11",
+          "status": "Dead",
+          "species": "Human",
+          "gender": "Male",
+          "created": "2017-11-04T20:20:20.965Z"
+        },
+        {
+          "name": "Alexander",
+          "id": "12",
+          "status": "Dead",
+          "species": "Human",
+          "gender": "Male",
+          "created": "2017-11-04T20:32:33.144Z"
+        },
+        {
+          "name": "Alien Googah",
+          "id": "13",
+          "status": "unknown",
+          "species": "Alien",
+          "gender": "unknown",
+          "created": "2017-11-04T20:33:30.779Z"
+        },
+        {
+          "name": "Alien Morty",
+          "id": "14",
+          "status": "unknown",
+          "species": "Alien",
+          "gender": "Male",
+          "created": "2017-11-04T20:51:31.373Z"
+        },
+        {
+          "name": "Alien Rick",
+          "id": "15",
+          "status": "unknown",
+          "species": "Alien",
+          "gender": "Male",
+          "created": "2017-11-04T20:56:13.215Z"
+        },
+        {
+          "name": "Amish Cyborg",
+          "id": "16",
+          "status": "Dead",
+          "species": "Alien",
+          "gender": "Male",
+          "created": "2017-11-04T21:12:45.235Z"
+        },
+        {
+          "name": "Annie",
+          "id": "17",
+          "status": "Alive",
+          "species": "Human",
+          "gender": "Female",
+          "created": "2017-11-04T22:21:24.481Z"
+        },
+        {
+          "name": "Antenna Morty",
+          "id": "18",
+          "status": "Alive",
+          "species": "Human",
+          "gender": "Male",
+          "created": "2017-11-04T22:25:29.008Z"
+        },
+        {
+          "name": "Antenna Rick",
+          "id": "19",
+          "status": "unknown",
+          "species": "Human",
+          "gender": "Male",
+          "created": "2017-11-04T22:28:13.756Z"
+        },
+        {
+          "name": "Ants in my Eyes Johnson",
+          "id": "20",
+          "status": "unknown",
+          "species": "Human",
+          "gender": "Male",
+          "created": "2017-11-04T22:34:53.659Z"
+        }
+      ]
+    }
+  }
+}
